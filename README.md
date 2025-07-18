@@ -105,7 +105,7 @@ riscv64-unknown-elf-gcc -march=rv32i -mabi=ilp32 -nostdlib -o test.elf test.s
 4.  将您的分支推送到远程仓库 (`git push origin feature/AmazingFeature`)。
 5.  创建一个 **Pull Request**。
 
-如果您发现了问题，请在 [Issues](https://github.com/your-username/your-repository/issues) 页面提交一个详细的报告。
+如果您发现了问题，请在 [Issues](https://github.com/Dayuxiaoshui/riscv-cpp-simulator/issues) 页面提交一个详细的报告。
 
 ## 许可证 (License)
 
