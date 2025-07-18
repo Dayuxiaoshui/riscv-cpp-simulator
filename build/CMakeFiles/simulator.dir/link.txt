@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/simulator.dir/src/main.cpp.o CMakeFiles/simulator.dir/src/cpu.cpp.o CMakeFiles/simulator.dir/src/memory.cpp.o CMakeFiles/simulator.dir/src/registers.cpp.o -o simulator 

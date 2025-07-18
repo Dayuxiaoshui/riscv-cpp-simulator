@@ -1,0 +1,3 @@
+/rust/project_root/build/CMakeFiles/simulator.dir
+/rust/project_root/build/CMakeFiles/edit_cache.dir
+/rust/project_root/build/CMakeFiles/rebuild_cache.dir
